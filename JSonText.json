@@ -1,5 +1,5 @@
 {
-  "UserInfo": [
+  "userinfo": [
     {
       "userId": "0",
       "firstname": "Lara",
@@ -25,5 +25,5 @@
       "email": "a47@hitman.com"
     }
   ],
-  "Numbers": 200
+  "numbers": 200
 }
