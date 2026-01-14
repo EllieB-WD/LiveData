@@ -1,0 +1,16 @@
+{
+  "UserInfo": [
+    {
+      "userId": "0",
+      "firstname": "John",
+      "surname": "Doe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "userId": "1",
+      "firstname": "Jane",
+      "surname": "Doe",
+      "email": "janedoe@gmail.com"
+    }
+  ]
+}
