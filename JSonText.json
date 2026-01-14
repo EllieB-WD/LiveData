@@ -2,15 +2,27 @@
   "UserInfo": [
     {
       "userId": "0",
-      "firstname": "John",
-      "surname": "Doe",
-      "email": "johndoe@gmail.com"
+      "firstname": "Lara",
+      "surname": "Croft",
+      "email": "laracroft@gmail.com"
     },
     {
       "userId": "1",
-      "firstname": "Jane",
-      "surname": "Doe",
-      "email": "janedoe@gmail.com"
+      "firstname": "Ash",
+      "surname": "Ketchum",
+      "email": "ashketchum@thegym.com"
+    },
+    {
+      "userId": "2",
+      "firstname": "Sonic",
+      "surname": "the Hedgehog",
+      "email": "sonic.hedgehog@sega.com"
+    },
+    {
+      "userId": "3",
+      "firstname": "Agent",
+      "surname": "47",
+      "email": "a47@hitman.com"
     }
   ]
 }
