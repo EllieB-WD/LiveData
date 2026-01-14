@@ -25,5 +25,10 @@
       "email": "a47@hitman.com"
     }
   ],
-  "numbers": 200
+  "score": [
+    {
+      "first round": "100",
+      "second round": "120",
+      "third round": "90"
+    }
 }
