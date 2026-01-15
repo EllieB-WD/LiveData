@@ -14,5 +14,11 @@
             "colour": "e0d03f",
             "slogan": "All Different. All Equal. All Achieving"
         }
+    ],
+    "AddressBook": [
+        {
+            "name": "John Smith",
+            "address": "123 The Road"
+        }
     ]
 }
