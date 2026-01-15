@@ -1,16 +1,18 @@
-[
-    {
-        "projectname": "Haygrove School",
-        "id": "HS",
-        "password": "WDHaygrove123",
-        "colour": "fe2a0d",
-        "slogan": "Opportunity and Endeavour"
-    },
-    {
-        "projectname": "Aston Manor Academy",
-        "id": "AMA",
-        "password": "WDAston123",
-        "colour": "e0d03f",
-        "slogan": "All Different. All Equal. All Achieving"
-    }
-]
+{
+    "ProjectData": [
+        {
+            "projectname": "Haygrove School",
+            "id": "HS",
+            "password": "WDHaygrove123",
+            "colour": "fe2a0d",
+            "slogan": "Opportunity and Endeavour"
+        },
+        {
+            "projectname": "Aston Manor Academy",
+            "id": "AMA",
+            "password": "WDAston123",
+            "colour": "e0d03f",
+            "slogan": "All Different. All Equal. All Achieving"
+        }
+    ]
+}
